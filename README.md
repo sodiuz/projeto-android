@@ -1,4 +1,6 @@
-Neste projeto, é apresentada uma página criada apenas com HTML e CSS;
-Ela foi desenvolvida pelo professor Gustavo Guanabara do CursoemVideo.
+In this project, a page created using only HTML and CSS is presented;
+It was developed by Professor Gustavo Guanabara from CursoemVideo.
 
-Link para acessar a página: https://sodiuz.github.io/projeto-android/ 
+Link to access the page: https://sodiuz.github.io/projeto-android/
+
+
